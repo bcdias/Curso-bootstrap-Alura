@@ -1,0 +1,39 @@
+/* Importantdo fonte usada no banner */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.imagem-carrossel-um{
+    height: 30rem;
+    object-fit: cover;
+    object-position: 0 75%;
+}
+.imagem-carrossel-dois{
+    height: 30rem;
+    object-fit: cover;
+    
+}
+
+.fonte-titulo{
+    font-family: 'Pacifico', cursive;
+}
+.cor-logo{
+    color: darkred!important;
+}
+.cor-especial{
+    color: darkred;
+
+}
+.cores-botao{
+    background-color: darkred;
+    color: white;
+}
+.cor-borda{
+    border-color: darkred;
+}
+.card-largura{
+    max-width: 18rem;
+}
+
+.image-receita{
+    object-fit: cover;
+    height: 200px;
+}
